@@ -47,7 +47,7 @@ function App() {
   const visiblePeople = people.slice(0, 3);
   return (
     <div className="App">
-      <h1>Hello world from Misha Hrynko!</h1>
+      <h1>Hello world from Ihor Stavratii!</h1>
       <PeopleList people={visiblePeople} />
     </div>
   );
